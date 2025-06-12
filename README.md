@@ -39,8 +39,6 @@ A simple yet interactive **Banking System GUI** built using **Java Swing**, allo
 1. **Clone the repository**
    
    git clone https://github.com/MuthamizhSelvan01/BankingSystemGUI.git
-   cd BankingSystemGUI
-
 
 2. **Compile the Java file**
    
